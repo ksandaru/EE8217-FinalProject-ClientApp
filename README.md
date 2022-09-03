@@ -1,5 +1,5 @@
 
-## The Home page for Visualize the Number of Active Temperature sensors and the Notification method
+## The Home page for Visualize the Number of Active Temperature sensors and the Notification method selection
 
 ![1](https://user-images.githubusercontent.com/48172594/188265456-a8cc65a5-2feb-4192-b518-f74a2af33f33.PNG)
 
