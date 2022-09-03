@@ -1,0 +1,46 @@
+.tileback {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.tilebackItem {
+    flex: 1;
+    margin: 0px 20px;
+    padding: 30px;
+    border-radius: 10px;
+    cursor: pointer;
+    -webkit-box-shadow: 0px 0px 05px -1px #b1b1b1;
+    box-shadow: 0px 0px 05px -1px #b1b1b1;
+}
+
+.tilebackTitle {
+    font-size: 20px;
+}
+
+.tilebackStatusContainer {
+    margin: 10px 0px;
+    display: flex;
+    align-items: center;
+}
+
+.tilebackStatus {
+    font-size: 30px;
+    font-weight: 600;
+}
+
+
+.tilebackIcon {
+    font-size: 14px;
+    margin-left: 5px;
+    color: green;
+}
+
+.tilebackIcon.negative {
+    color: red;
+}
+
+.tilebackSub {
+    font-size: 15px;
+    color: gray;
+}
