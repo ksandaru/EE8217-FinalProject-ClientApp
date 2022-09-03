@@ -12,7 +12,7 @@ export default function InfoTile() {
     const [data, setData] = useState("");
     const getResults = async () => {
         setTimeout(() => setFlag(!flag), 2000)
-        const {data} = await axios.get('http://localhost:8080/api/sensor-data/get-sensor-count');
+        const {data} = await axios.get('http://localhost:8000/api/sensor-data/get-sensor-count');
         setData(data);
 
     }
