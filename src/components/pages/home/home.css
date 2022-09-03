@@ -1,0 +1,12 @@
+.home {
+    flex: 4;
+}
+
+.homeScreen {
+    display: flex;
+    margin: 20px;
+}
+
+.AlertsList {
+   padding-right: 400px;
+}
